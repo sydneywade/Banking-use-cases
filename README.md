@@ -1,7 +1,7 @@
 # Banking Use Cases
 Machine Learning and Reinforcement Learning Portfolio for Banking Use Cases
 
-##**Project Overview**
+## **Project Overview**
 This portfolio showcases a set of projects that implements solutions for banking clients. This portfolio includes classification, regression, clustering, dimensionality reduction, and reinforcement learning models, each of which targets a different use case.
 
 
