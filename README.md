@@ -3,7 +3,7 @@ Machine Learning and Reinforcement Learning Portfolio for Banking Use Cases
 
 This portfolio showcases a set of projects that implements solutions for banking clients. This portfolio includes classification, regression, clustering, dimensionality reduction, and reinforcement learning models, each of which targets a different use case.
 
-##**1. Classification Model: Credit Card Fraud Detection**
+###**1. Classification Model: Credit Card Fraud Detection**
 **Dataset:** https://www.kaggle.com/mlg-ulb/creditcardfraud
 **Task:** Detect fraudulent transactions from real-world credit card data collected from European cardholders. The goal is to accurately distinguish fraud (class 1) from legitimate (class 0) purchases
 **Approach:** Compare Logistic Regression and XGBoost models
