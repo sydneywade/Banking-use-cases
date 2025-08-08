@@ -59,5 +59,7 @@ This portfolio showcases a set of projects that implements solutions for banking
 **Task:** Train reinforcement learning model to optimize portfolio returns
 
 **Approach:** Train PPO agent in a gym-style trading environment
+
 **Evaluation Metrics:** Cumulative reward, Sharpe Ratio
+
 **Visualizations:** Reward per episode curve, Portfolio value over time
