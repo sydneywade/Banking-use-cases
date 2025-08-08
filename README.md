@@ -5,7 +5,8 @@ This portfolio showcases a set of projects that implements solutions for banking
 
 ## **1. Classification Model: Credit Card Fraud Detection**
 **Dataset:** https://www.kaggle.com/mlg-ulb/creditcardfraud
-\n**Task:** Detect fraudulent transactions from real-world credit card data collected from European cardholders. The goal is to accurately distinguish fraud (class 1) from legitimate (class 0) purchases
+
+**Task:** Detect fraudulent transactions from real-world credit card data collected from European cardholders. The goal is to accurately distinguish fraud (class 1) from legitimate (class 0) purchases
 **Approach:** Compare Logistic Regression and XGBoost models
 **Evaluation Metrics:** Precision, Recall, F1-Score, AUC-ROC
 **Visualizations:** Confusion matrix, ROC curve, Class-distribution bar chart
